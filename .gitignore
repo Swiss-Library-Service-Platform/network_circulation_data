@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+Analyse_data.ipynb
+reports
+data
+*.xlsx
+!Explanations.xlsx
